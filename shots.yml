@@ -22,7 +22,7 @@
   output: les_echos.png
   height: 3000
 
-- url: whttps://www.latribune.fr/
+- url: https://www.latribune.fr/
   output: la_tribune.png
   height: 3000
 
