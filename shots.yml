@@ -1,3 +1,31 @@
 - url: https://www.liberation.fr/
-  output: shot.png
-  height: 800
+  output: libe.png
+  height: 3000
+
+- url: https://www.lemonde.fr/
+  output: le_monde.png
+  height: 3000
+
+- url: https://www.lefigaro.fr/
+  output: le_figaro.png
+  height: 3000
+
+- url: https://www.ouest-france.fr/
+  output: ouest_france.png
+  height: 3000
+
+- url: https://www.la-croix.com/
+  output: la_croix.png
+  height: 3000
+
+- url: https://www.lesechos.fr/
+  output: les_echos.png
+  height: 3000
+
+- url: whttps://www.latribune.fr/
+  output: la_tribune.png
+  height: 3000
+
+- url: https://www.mediapart.fr/
+  output: mediapart.png
+  height: 3000
